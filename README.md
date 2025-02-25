@@ -1,1 +1,2 @@
-# CoinOperatedKTV
+# 視窗版投幣式KTV系統
+[說明文件](投幣式KTV系統.pdf)
